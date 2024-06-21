@@ -1,0 +1,17 @@
+program 
+  x, p : int;
+  r : int;
+begin
+  input x, p;
+  if (p>0) then
+   while (p >1) 
+   loop
+     x := x *y;
+     p := p -1;
+   end loop;
+   r := x;
+  else
+    r := 1;
+  end if;
+  output r,x,p;
+end;

@@ -1,0 +1,5 @@
+program
+begin
+if (2 > 3) then output 2;
+else output 2; end if;
+end;

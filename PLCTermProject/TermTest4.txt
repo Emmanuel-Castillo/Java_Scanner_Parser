@@ -1,0 +1,15 @@
+program
+
+
+
+
+
+
+
+
+
+
+a,b,c:float;
+x,y,while:double;
+begin
+end;

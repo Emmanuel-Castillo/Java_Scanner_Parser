@@ -1,0 +1,18 @@
+program
+  x, y: int;
+  e: int;
+begin
+  input x;
+  y := 1;
+  if (x > 0) then
+   e := 0;
+   while (x > 0)
+   loop
+     y := y * x;
+     x := x -1;
+   end loop
+  else
+    e := 1;
+  end if;
+  output e, x, y;
+end;

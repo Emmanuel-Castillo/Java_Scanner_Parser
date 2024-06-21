@@ -1,0 +1,14 @@
+program x,y,z,w:double;
+a,b,c:float;
+begin
+    input x,y,w;
+    y:=x+y+x;
+    output y;
+    while (y > x)
+    loop
+        x := 1;
+    end loop;
+    input b,c,a;
+    c:= b + a;
+    
+end;

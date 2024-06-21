@@ -1,0 +1,7 @@
+program x, y: int;
+z, _wap : float;
+begin
+input z, x, y, _wap;
+_wap := z + ( x * y );
+output _wap;
+end;

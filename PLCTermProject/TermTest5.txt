@@ -1,0 +1,6 @@
+program
+x:int;
+$:double;
+begin
+y:=1;
+end;

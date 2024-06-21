@@ -1,0 +1,8 @@
+
+
+program 
+
+begin
+     output 5;
+     while (2 = 3)loop output 2; end loop;
+end;
